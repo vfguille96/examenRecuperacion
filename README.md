@@ -1,1 +1,3 @@
 # examenRecuperacion
+
+Guillermo Vera Fernández.
